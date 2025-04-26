@@ -6,7 +6,7 @@ Me chamo Luiz Vitor
 
 Atualmente estou me formando em Análise e Desenvolvimento de Sistemas
 
-<img src="https://www.google.com/imgres?q=logo%20do%20mysql&imgurl=https%3A%2F%2Flogospng.org%2Fdownload%2Fmysql%2Fmysql-4096.png&imgrefurl=https%3A%2F%2Flogospng.org%2Flogo-mysql%2F&docid=yODMz9Jti-hcqM&tbnid=oAe_zVsWm4_eUM&vet=12ahUKEwiUhL7Mt_SMAxWDqpUCHSlwOMgQM3oECBkQAA..i&w=4096&h=4096&hcb=2&ved=2ahUKEwiUhL7Mt_SMAxWDqpUCHSlwOMgQM3oECBkQAA">
+<img src="http://google.com/imgres?q=logo%20do%20mysql&imgurl=https%3A%2F%2Flogospng.org%2Fdownload%2Fmysql%2Fmysql-4096.png&imgrefurl=https%3A%2F%2Flogospng.org%2Flogo-mysql%2F&docid=yODMz9Jti-hcqM&tbnid=oAe_zVsWm4_eUM&vet=12ahUKEwiUhL7Mt_SMAxWDqpUCHSlwOMgQM3oECBkQAA..i&w=4096&h=4096&hcb=2&ved=2ahUKEwiUhL7Mt_SMAxWDqpUCHSlwOMgQM3oECBkQAA">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
